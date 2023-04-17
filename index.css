@@ -1,1 +1,18 @@
 
+
+.cabeçalho{
+ display: flex;
+ flex-direction: row;
+ justify-content: space-between;
+ align-items: center;
+ font:xx-large ;
+ padding:45px ;
+ background-color: rgb(25, 25, 138);
+ border-radius: 50px
+}
+body{
+  background-color: darkblue;
+  
+}
+
+
